@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Vignesh 👋</h1>
+<h1 align="center">Vignesh Suvarna</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00E5FF&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;Building+AI+%26+Automation+Tools;Turning+Ideas+Into+Working+Apps;Always+Learning+Something+New" alt="Typing SVG" />
