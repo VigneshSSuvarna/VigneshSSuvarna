@@ -14,7 +14,7 @@
 
 ```bash
 $ whoami
-> Vignesh S Suvarna — Full-Stack Developer, based in India 🇮🇳
+> Vignesh  Suvarna — Full-Stack Developer, based in India 🇮🇳
 
 $ cat interests.txt
 > Generative AI · LLMs · RAG · Automation · Open Source
