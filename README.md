@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science Engineering student at **Atria Institute of Technology, Bengaluru** (batch of 2028) who loves building things end to end: from a clean React front end to a backend that holds up, to AI tools that actually save time.
+I'm a Computer Science Engineering student at **Atria Institute of Technology, Bengaluru**  who loves building things end to end: from a clean React front end to a backend that holds up, to AI tools that actually save time.
 
 - 🔭 Currently exploring **RAG pipelines**, **scalable backend architecture** and **voice-driven AI interfaces**
 - 🛠️ Building: **HERMES**, a voice-activated desktop AI companion
